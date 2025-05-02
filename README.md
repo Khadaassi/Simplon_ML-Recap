@@ -86,9 +86,9 @@ Projet sous licence MIT. Voir le fichier `LICENSE`.
 
 ## ➤ Auteurs
 
-* **Hacene Zerrouk**
-* **Malek Boumedine**
-* **Khadija Abdelmalek**
-* **Khadija Aassi**
+* **Hacene Zerrouk**: [GitHub](https://github.com/haceneZERROUK)
+* **Malek Boumedine**: [GitHub](https://github.com/Malek-Boumedine)
+* **Khadija Abdelmalek**: [GitHub](https://github.com/khadmalek)
+* **Khadija Aassi**: [GitHub](https://github.com/Khadaassi)
 
 Pour toute question, merci d’ouvrir une issue sur le dépôt principal.
